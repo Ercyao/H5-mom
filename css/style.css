@@ -29,38 +29,38 @@ body{overflow: hidden;background: red;}
 @-webkit-keyframes bg1{0%{opacity: 0}50%{opacity: 0;}100%{opacity: 1}}
 @keyframes bg1{0%{opacity: 0}50%{opacity: 0;}100%{opacity: 1}}
 .page2{background: url(../img/2-1.jpg) no-repeat; background-size: 100% 100%;}
-.bg2-2{width:45%;height:17%;margin: 99% 10%;z-index:4;background: url(../img/2-2.png) no-repeat;background-size: 100% 100%;-webkit-animation:bg2-2 1.5s ease 1; animation:bg2-2 1.5s ease 1;}
+.bg2-2{width:45%;height:17%;margin: 94% 10%;z-index:4;background: url(../img/2-2.png) no-repeat;background-size: 100% 100%;-webkit-animation:bg2-2 1.5s ease 1; animation:bg2-2 1.5s ease 1;}
 @-webkit-keyframes bg2-2{0%{opacity: 0}50%{opacity: 0;}100%{opacity: 1}}
 @keyframes bg2-2{0%{opacity: 0}50%{opacity: 0;}100%{opacity: 1}}
 .bg2-3{width:44%;height:25%;margin-top: -95%;margin-left: 50%;z-index:4;background: url(../img/2-3.png) no-repeat;background-size:100% 100%;-webkit-animation:bg2-3 1s 0.5s ease 1; animation:bg2-3 1s 0.5s ease 1;}
 @-webkit-keyframes bg2-3{0%{opacity: 0; transform:scale(-5)}50%{opacity: 0;transform:scale(-2)}100%{opacity: 1;transform:scale(0)}}
 @keyframes bg2-3{0%{opacity: 0; transform:scale(-5)}50%{opacity: 0;transform:scale(-2)}100%{opacity: 1;transform:scale(0)}}
 .page3{background: url(../img/3-1.jpg) no-repeat; background-size: 100% 100%;}
-.bg3-2{float: right;width:100%;height:50%;margin-top: 50%;z-index:4;background: url(../img/3-2.png) no-repeat;background-size:100% 100%;-webkit-animation:bg2-3 1s ease 1; animation:bg2-3 1s ease 1;}
-.bg3-3{width:60%;height:30%;margin: 125% 35%;z-index:4;background: url(../img/3-3.png) no-repeat;background-size:100% 100%;-webkit-animation:bg3 1.5s 0.5s ease-in 1; animation:bg3 1.5s 0.5s ease-in 1;}
+.bg3-2{float: right;width:100%;height:50%;margin-top: 45%;z-index:4;background: url(../img/3-2.png) no-repeat;background-size:100% 100%;-webkit-animation:bg2-3 1s ease 1; animation:bg2-3 1s ease 1;}
+.bg3-3{width:60%;height:30%;margin: 110% 35%;z-index:4;background: url(../img/3-3.png) no-repeat;background-size:100% 100%;-webkit-animation:bg3 1.5s 0.5s ease-in 1; animation:bg3 1.5s 0.5s ease-in 1;}
 @-webkit-keyframes bg3{0%{opacity: 0; transform:translateY(100%);}100%{opacity: 1;transform:translateY(0)}}
 @keyframes bg3{0%{opacity: 0; transform:translateY(100%);}100%{opacity: 1;transform:translateY(0)}}
 .page4{background:url(../img/4-1.jpg) no-repeat;background-size: 100% 100%;}
-.bg4-2{float: right;width:50%;height:50%;margin-top: 30%;float: left;margin-left: 5%;z-index:4;background: url(../img/4-2.png) no-repeat;background-size:100% 100%;-webkit-animation:bg4-2 1s ease-in 1; animation:bg4-2 1s ease-in 1;}
+.bg4-2{float: right;width:50%;height:48%;margin-top: 30%;float: left;margin-left: 5%;z-index:4;background: url(../img/4-2.png) no-repeat;background-size:100% 100%;-webkit-animation:bg4-2 1s ease-in 1; animation:bg4-2 1s ease-in 1;}
 @-webkit-keyframes bg4-2{0%{opacity: 0; transform:translateY(30%);}100%{opacity: 1;transform:translateY(0)}}
 @keyframes bg4-2{00%{opacity: 0; transform:translateY(30%);}100%{opacity: 1;transform:translateY(0)}}
-.bg4-3{width:30%;height:30%;margin: 90% 60%;z-index:4;background: url(../img/4-3.png) no-repeat;background-size:100% 100%;-webkit-animation:bg4 1s 0.5s ease-in 1; animation:bg4 1s 0.5s ease-in 1;}
+.bg4-3{width:28%;height:30%;margin:85% 62%;z-index:4;background: url(../img/4-3.png) no-repeat;background-size:100% 100%;-webkit-animation:bg4 1s 0.5s ease-in 1; animation:bg4 1s 0.5s ease-in 1;}
 .bg4-4{width:70%;height:30%;margin-top: -100%;float: right;z-index:4;background: url(../img/4-4.png) no-repeat;background-size:100% 100%;-webkit-animation:bg4 1.5s 0.5s ease-in 1; animation:bg4 1.5s 0.5s ease-in 1;}
 @-webkit-keyframes bg4{0%{opacity: 0;transform:rotate(-60deg);}100%{opacity: 1;transform:rotate(0deg);}}
 @keyframes bg4{0%{opacity: 0;transform:rotate(-60deg);}100%{opacity: 1;transform:rotate(0deg);}}
 .page5{background: url(../img/5-1.jpg) no-repeat; background-size: 100% 100%;}
-.bg5-2{float: right;width:100%;height:40%;margin-top: 50%;z-index:4;background: url(../img/5-2.png) no-repeat;background-size:100% 100%;-webkit-animation:bg5 1s ease-in 1; animation:bg5 1s ease-in 1;}
+.bg5-2{float: right;width:100%;height:40%;margin-top: 45%;z-index:4;background: url(../img/5-2.png) no-repeat;background-size:100% 100%;-webkit-animation:bg5 1s ease-in 1; animation:bg5 1s ease-in 1;}
 @-webkit-keyframes bg5{0%{opacity: 0; transform:translateX(-100%);}100%{opacity: 1;transform:translateX(0)}}
 @keyframes bg5{0%{opacity: 0; transform:translateX(-100%);}100%{opacity: 1;transform:translateX(0)}}
-.bg5-3{width:80%;height:28%;margin-top: 125%; margin-left: 17%;z-index:4;background: url(../img/5-3.png) no-repeat;background-size:100% 100%;-webkit-animation:bg5-3 1.5s 0.5s ease-in 1; animation:bg5-3 1.5s 0.5s ease-in 1;}
+.bg5-3{width: 75%; height: 27%; margin-top: 115%; margin-left: 22%;z-index:4;background: url(../img/5-3.png) no-repeat;background-size:100% 100%;-webkit-animation:bg5-3 1.5s 0.5s ease-in 1; animation:bg5-3 1.5s 0.5s ease-in 1;}
 @-webkit-keyframes bg5-3{0%{opacity: 0; transform:translateY(100%) rotate(-360deg);}100%{opacity: 1;transform:translateY(0) rotate(0deg);}}
 @keyframes bg5-3{0%{opacity: 0; transform:translateY(100%) rotate(-360deg);}100%{opacity: 1;transform:translateY(0) rotate(0deg);}}
 .page6{background: url(../img/6-1.jpg) no-repeat; background-size: 100% 100%;}
-.bg6-2{float: right;width:80%;height:30%;margin-top: 120%;float:left;margin-left: 20%;z-index:4;background: url(../img/6-2.png) no-repeat;background-size:100% 100%;-webkit-animation:bg2-3 1s ease-in 1; animation:bg2-3 1s ease-in 1;}
+.bg6-2{float: right;width:80%;height:30%;margin-top: 105%;float:left;margin-left: 14%;z-index:4;background: url(../img/6-2.png) no-repeat;background-size:100% 100%;-webkit-animation:bg2-3 1s ease-in 1; animation:bg2-3 1s ease-in 1;}
 .page7{background:url(../img/7-1.jpg) no-repeat;background-size: 100% 100%;}
-.bg7-2{float: right;width:40%;height:15%;margin-top: 33%;float: left;margin-left: 17%;z-index:4;background: url(../img/7-2.png) no-repeat;background-size:100% 100%;-webkit-animation:bg4 1s ease-in 1; animation:bg4 1s ease-in 1;}
+.bg7-2{float: right;width:35%;height:15%;margin-top: 33%;float: left;margin-left: 17%;z-index:4;background: url(../img/7-2.png) no-repeat;background-size:100% 100%;-webkit-animation:bg4 1s ease-in 1; animation:bg4 1s ease-in 1;}
 .bg7-3{width:20%;height:15%;margin: 110% 37%;z-index:4;background: url(../img/7-3.png) no-repeat;background-size:100% 100%;}
-.bg7-4{width:30%;height:9%;margin: -100% 32%;z-index:4;background: url(../img/7-4.png) no-repeat;background-size:100% 100%;}
+.bg7-4{width: 24%;height: 6%; margin: -100% 34%;z-index:4;background: url(../img/7-4.png) no-repeat;background-size:100% 100%;}
 .page11{background: url(../img/11-1.jpg) no-repeat; background-size: 100% 100%;}
 .bg11-2{float: right;width:50%;height:8%;margin-top: 140%;float: left;margin-left:27%;z-index:4;background: url(../img/11-2.png) no-repeat;background-size:100% 100%;}
 /*向上箭头图标  end*/
